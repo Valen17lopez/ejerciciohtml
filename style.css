@@ -1,0 +1,160 @@
+h2{
+    color: #221f1f;
+    font-size: 110%;
+}
+body{
+    background: url("imagenes/fondo2.jpg") ;
+    background-size: 100% 100%;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 25px;
+}
+main{
+    box-shadow: 0 0 10px #fffbfb;
+    border-radius: 30px;
+    width: 1100px;
+    margin: 20px auto;
+    background-color: rgba(164, 155, 155, 0.604);
+    padding: 20px;
+}
+header img{
+    float: right;
+    margin-right: 25px;
+}
+
+header{
+    text-align:center;
+}
+nav{
+    margin-left: 310px ;
+}
+ul li a{
+    text-decoration: none;
+    background-color: rgb(253, 59, 59);
+    color: #FFF;
+    padding: 8px 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px #080808;
+    
+}
+
+ul li{
+    display: inline;
+    padding: 0 10px; 
+}
+
+section{
+    background-size: contain;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+header h1{
+    font-size: 70px;
+    padding: 10px 0;
+    text-align: center;
+    float: center;
+    margin:50px 0 0 100px;
+}
+article{
+    float: left; 
+    
+}
+article-a{
+    float: right;
+}
+
+img{
+    border: 10px solid rgb(192, 26, 26);
+    border-radius: 10px;
+}
+
+.clear{
+    clear: both;
+}
+.logo{
+        width: 190px;
+        height: 190px;
+        border-radius: 60%;
+        position:left;
+        top: -40px;
+        left:calc(38% - 35px);
+}
+.logo-2{
+    float: left;
+    width: 210px;
+    height: 200px
+}
+.img1{
+    float: left;
+    width: 350px;
+    height: 290px
+}
+.img3{
+    float: right;
+    width: 350px;
+    height: 290px 
+}
+
+.imagenes{
+    width: 70%;
+    margin-left:150px;
+}
+aside{
+    text-align: center;
+}
+
+aside a{
+    color:#FFF;
+    background: #C81B33;
+    border-radius: 10px;
+    padding:5px 10px;
+    line-height: 40px;
+    text-decoration: none;
+}
+
+aside a:hover{
+    background:#FFF;
+    color: #C81B33;
+}
+
+  table {
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow:0 0 10px #0b0b0b;
+  }
+  
+  td, th {
+    border: 1px solid #f2ecece0;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #fd7d7dbe;
+  }
+
+.imagen{
+    width: 70%;
+    margin-left: 50px;
+}
+.disco{
+    float:center;
+    width: 1000px;
+    height: 500px ;
+    border: 1px solid #f2ecece0;
+}
+
+.imagen1{
+    width: 70%;
+    margin-left: 100px;
+}
+.img2{
+    float:center;
+    width: 570px;
+    height: 500px ;
+    border: 1px solid #f2ecece0;
+}
